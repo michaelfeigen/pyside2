@@ -32,7 +32,7 @@ You will notice that this gets a copy of the GUI running on your local machine, 
 #add functionality HERE
 ```
 
-This allows you to customize exactly what fuctionaily you want.
+This allows you to customize exactly what functionality you want.
 
 ## Author
 
