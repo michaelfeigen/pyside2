@@ -12,9 +12,9 @@ These instructions will get a copy of the project up and running on your local m
 
 ### Installation
 
-After installing Python, go to the directory in which you downloaded the project. For example, if your directory is called farmDeployer:
+After installing Python, go to the directory in which you downloaded the project. For example, if your directory is called pyside2:
 ```
-cd farmDeployer
+cd pyside2
 ```
 Run the following command to install PySide2:
 ```
